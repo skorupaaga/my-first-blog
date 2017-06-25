@@ -25,7 +25,7 @@ SECRET_KEY = '5xedi&$@!i(5h4-g_f!1e6@cg&e1_izc2l!c4h+jytt1^8a#qf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [skorupaaga.pythonanywhere.com]
 
 
 # Application definition
